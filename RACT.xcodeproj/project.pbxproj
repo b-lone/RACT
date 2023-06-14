@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		21210FC9288E8E220014E490 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 21210FC8288E8E220014E490 /* .gitignore */; };
+		21210FEE288F95400014E490 /* ReactiveSwift+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21210FED288F95400014E490 /* ReactiveSwift+Extensions.swift */; };
 		21CDB178288E401F008DB9FD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21CDB177288E401F008DB9FD /* AppDelegate.swift */; };
 		21CDB17A288E401F008DB9FD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21CDB179288E401F008DB9FD /* SceneDelegate.swift */; };
 		21CDB17C288E401F008DB9FD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21CDB17B288E401F008DB9FD /* ViewController.swift */; };
@@ -20,6 +21,7 @@
 
 /* Begin PBXFileReference section */
 		21210FC8288E8E220014E490 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		21210FED288F95400014E490 /* ReactiveSwift+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ReactiveSwift+Extensions.swift"; sourceTree = "<group>"; };
 		21CDB174288E401F008DB9FD /* RACT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RACT.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21CDB177288E401F008DB9FD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		21CDB179288E401F008DB9FD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 			children = (
 				21210FCB288E92390014E490 /* App */,
 				21210FCA288E91FC0014E490 /* ViewController */,
+				21210FED288F95400014E490 /* ReactiveSwift+Extensions.swift */,
 			);
 			path = RACT;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21210FEE288F95400014E490 /* ReactiveSwift+Extensions.swift in Sources */,
 				21CDB17C288E401F008DB9FD /* ViewController.swift in Sources */,
 				21CDB178288E401F008DB9FD /* AppDelegate.swift in Sources */,
 				21CDB17A288E401F008DB9FD /* SceneDelegate.swift in Sources */,

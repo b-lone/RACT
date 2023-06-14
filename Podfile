@@ -7,4 +7,6 @@ target 'RACT' do
 
   pod 'ReactiveCocoa', '~> 10.1'
   pod 'iOS_Kit'
+  pod 'RxSwift'
+  pod 'RxCocoa'
 end
